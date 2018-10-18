@@ -1,0 +1,18 @@
+header {
+  text-align: center;
+}
+
+article {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+section {
+  flex-basis: 33%;
+}
+
+.shop1 {
+  display: flex;
+  justify-content: space-around;
+  flex-basis: 40%;
+}
